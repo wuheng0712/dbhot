@@ -3415,6 +3415,7 @@ def auth_func(func):
 
 
 
+
 user_dic = {'user_name':None,'login':False}
 def auth_func(func):
     def wrapper(*args, **kwargs):
@@ -3561,7 +3562,8 @@ if __name__ == '__main__':
         msg_dic[choice](data)
 
 #上面这个没有做出来
-
+# 我想开发新的短视频节目
+#又是增加了约饭的平台
 
 
 
