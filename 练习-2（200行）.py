@@ -3542,7 +3542,7 @@ def add():#加
 # def change():#改
 
 # def delete():#关键字
-if __name__ == '__main__':
+# if __name__ == '__main__':
     # print(__name__)
     # print('test')
 # __name__ == '__main__'
@@ -3558,12 +3558,13 @@ if __name__ == '__main__':
         choice = input('请输入你的选项:').strip()
         if not choice:Continue
         if choice =='5':break
-        data = input('请输入您的数据')。strip()
+        data = input('请输入您的数据').strip()
         msg_dic[choice](data)
 
 #上面这个没有做出来
 # 我想开发新的短视频节目
 #又是增加了约饭的平台
+# 2222商城50%
 
 
 
